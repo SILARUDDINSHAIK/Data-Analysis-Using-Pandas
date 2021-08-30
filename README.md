@@ -20,5 +20,5 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Using the .apply() method
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
-- Labeling our graphs.
+- Labeling our graphs
 
